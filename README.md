@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FenixCoding.
+- 👀 I’m interested in making a custom Rocket League bot.
+- 🌱 I’m currently learning Python 3 and Scratch.
+- 💞️ I’m looking to collaborate on anything. 
+- 📫 How to reach me: Github @FenixCoding or Scratch @FenixCoding.
